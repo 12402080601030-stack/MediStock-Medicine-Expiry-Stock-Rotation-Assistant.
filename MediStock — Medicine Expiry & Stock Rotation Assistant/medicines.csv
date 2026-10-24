@@ -1,0 +1,12 @@
+id,name,batch,quantity,min_stock,expiry
+101,Paracetamol 500mg,PCM-A1,120,50,2026-10-10
+102,Paracetamol 500mg,PCM-B2,80,50,2026-11-15
+103,Paracetamol 500mg,PCM-C3,200,50,2027-06-30
+104,Amoxicillin 250mg,AMX-01,30,40,2026-12-20
+105,Amoxicillin 250mg,AMX-02,0,40,2027-03-01
+106,Cetirizine 10mg,CTZ-11,60,25,2026-11-20
+107,Ibuprofen 400mg,IBU-07,15,30,2027-02-14
+108,ORS Sachet,ORS-33,300,100,2027-09-01
+109,Azithromycin 500mg,AZI-05,10,20,2026-09-30
+110,Metformin 500mg,MET-21,45,30,2027-01-31
+111,Cough Syrup,CSY-02,8,10,2026-11-01
